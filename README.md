@@ -10,7 +10,7 @@ I build custom AI-powered software for businesses that need more than off-the-sh
 | | |
 |---|---|
 | 🎯 **Microsoft AI-102** | Azure AI Engineer Associate *(in progress)* |
-| ✅ **Microsoft Enterprise Stack** | 25+ years — C#/.NET, Azure AD, SQL Server |
+| ✅ **Microsoft Enterprise Stack** | 25+ years — Azure AI, C#/.NET, Azure AD, SQL Server |
 
 ---
 
