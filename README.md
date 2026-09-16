@@ -1,6 +1,6 @@
 # Matthew S. Monroe
 
-**AI Solutions & Software Consultant · .NET / Data / IAM · Vektas Solutions · Eugene–Springfield, Oregon**
+**AI Solutions & Software Consultant · .NET / Data / IAM · Vektas Solutions · Ventura, California**
 
 I build practical software for businesses with messy workflows, disconnected systems, and data that needs to become useful.
 
